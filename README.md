@@ -1,6 +1,7 @@
 # Русский
-### Привет, я использую linux
-Telegram: https://t.me/linux_tester
+
+Привет, я использую linux
+
 
 Я сделал дистрибутив линукса, а так же:
  
@@ -8,6 +9,10 @@ Telegram: https://t.me/linux_tester
 * JS
 * Golang
 * python
+
+#### Интересные проекты
+* [Go Frame Buffer](https://github.com/nasOS-official/gfb/) для вывода векторных изображений в tty
+* [Go Text User Interface Question Manager](https://github.com/nasOS-official/gtuiqm) для создания диалогов в консольных приложениях на Golang
 
 # English
 ### Hi there 👋
